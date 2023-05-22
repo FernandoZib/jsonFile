@@ -1,0 +1,114 @@
+[
+  {
+    "SERIAL": 1,
+    "GROUP_NAME": "TEST",
+    "EMP_NAME": "example",
+    "DESIGNATION": "NULL",
+    "MOBILE_NUMBER": "0199",
+    "EMAIL_ADD": "abc"
+  },
+  {
+    "SERIAL": 1,
+    "GROUP_NAME": 1,
+    "EMP_NAME": 1,
+    "DESIGNATION": 1,
+    "MOBILE_NUMBER": 1,
+    "EMAIL_ADD": 1
+  },
+  {
+    "SERIAL": 1,
+    "GROUP_NAME": "fdgsd",
+    "EMP_NAME": "",
+    "DESIGNATION": "",
+    "MOBILE_NUMBER": "",
+    "EMAIL_ADD": ""
+  },
+  {
+    "SERIAL": 1,
+    "GROUP_NAME": "a",
+    "EMP_NAME": "a",
+    "DESIGNATION": "a",
+    "MOBILE_NUMBER": "a",
+    "EMAIL_ADD": "a"
+  },
+  {
+    "SERIAL": 1,
+    "GROUP_NAME": "Group One",
+    "EMP_NAME": "Hasib Uddin",
+    "DESIGNATION": "Programmer",
+    "MOBILE_NUMBER": "01715454133",
+    "EMAIL_ADD": ""
+  },
+  {
+    "SERIAL": 1,
+    "GROUP_NAME": "A",
+    "EMP_NAME": "QAIUM",
+    "DESIGNATION": "TP",
+    "MOBILE_NUMBER": "01734372588",
+    "EMAIL_ADD": "qaiumaiub@gmail.com"
+  },
+  {
+    "SERIAL": 1,
+    "GROUP_NAME": "abc",
+    "EMP_NAME": "def",
+    "DESIGNATION": "tse",
+    "MOBILE_NUMBER": "01611709161",
+    "EMAIL_ADD": "gmack@gmail.com"
+  },
+  {
+    "SERIAL": 1234,
+    "GROUP_NAME": "fhfdh",
+    "EMP_NAME": "gdg",
+    "DESIGNATION": "fdh",
+    "MOBILE_NUMBER": "f",
+    "EMAIL_ADD": "r"
+  },
+  {
+    "SERIAL": "",
+    "GROUP_NAME": "sameer",
+    "EMP_NAME": "sameer",
+    "DESIGNATION": "manager",
+    "MOBILE_NUMBER": "0345774607",
+    "EMAIL_ADD": 3232
+  },
+  {
+    "SERIAL": "",
+    "GROUP_NAME": "khawer",
+    "EMP_NAME": "khawer",
+    "DESIGNATION": "it",
+    "MOBILE_NUMBER": 132132131,
+    "EMAIL_ADD": 2132131
+  },
+  {
+    "SERIAL": 1,
+    "GROUP_NAME": "margo",
+    "EMP_NAME": "king",
+    "DESIGNATION": "engineer",
+    "MOBILE_NUMBER": 991239123,
+    "EMAIL_ADD": "h"
+  },
+  {
+    "SERIAL": 123123123,
+    "GROUP_NAME": "aa",
+    "EMP_NAME": "aa",
+    "DESIGNATION": "aa",
+    "MOBILE_NUMBER": 12313213,
+    "EMAIL_ADD": "aa"
+  },
+  {
+    "SERIAL": 2,
+    "GROUP_NAME": "A",
+    "EMP_NAME": "Mohammad",
+    "DESIGNATION": "TP",
+    "MOBILE_NUMBER": "01671076653",
+    "EMAIL_ADD": "qaiumjcpsc@gmail.com"
+  },
+  {
+    "SERIAL": 1,
+    "GROUP_NAME": "df",
+    "EMP_NAME": "df",
+    "DESIGNATION": "df",
+    "MOBILE_NUMBER": "df",
+    "EMAIL_ADD": "df"
+  }
+]
